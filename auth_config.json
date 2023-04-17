@@ -1,0 +1,7 @@
+{
+  "domain": "dev-1mxudr4g55a5oxtm.us.auth0.com",
+  "clientId": "nP8ZJLx2zArx7kCnTbiLuSDVQ3CEwJJs",
+  "authorizationParams": {
+    "audience": "https://dev-1mxudr4g55a5oxtm.us.auth0.com/api/v2/"
+  }
+}
